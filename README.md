@@ -1,6 +1,6 @@
 # Multiverse Connections
 
-![Multiverse Connections](https://i.ibb.co/DzXVb8r/Showcase-Multiverse-Connections.png)
+![Multiverse Connections](https://i.ibb.co/qjFS7Qz/Showcase-Multiverse-Connections.png)
 
 Multiverse Connections is a personal project inspired by a fascination with parallel universes and interdimensional communication. This website serves as a platform that allows users to explore and interact with alternate realities, even though it's based on an imaginary concept.
 
