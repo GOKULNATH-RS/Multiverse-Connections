@@ -13,5 +13,4 @@ You can explore a live demo of Multiverse Connections [here](https://multiversec
 - React
 - Tailwind CSS
 
-
 **Enjoy exploring the multiverse!** 🚀🌠
